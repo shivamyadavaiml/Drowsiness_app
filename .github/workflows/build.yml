@@ -22,9 +22,11 @@ jobs:
         with:
           flutter-version: '3.19.0'
           channel: 'stable'
-
       - name: Install dependencies
-        run: flutter pub get
+        run: |
+          flutter clean
+          flutter pub get
+    
 
       - name: Build APK
         # This creates the lightweight split APKs you requested
