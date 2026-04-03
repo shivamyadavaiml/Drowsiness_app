@@ -16,12 +16,10 @@ jobs:
         with:
           distribution: 'zulu'
           java-version: '17'
-
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.19.0'
-          channel: 'stable'
+          channel: 'stable' # Removing the specific version 3.19.0 makes it more flexible
       - name: Install dependencies
         run: |
           flutter clean
