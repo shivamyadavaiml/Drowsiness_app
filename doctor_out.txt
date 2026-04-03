@@ -1,0 +1,40 @@
+﻿[!] Flutter (Channel stable, 3.41.6, on Microsoft Windows [Version 10.0.26200.8117], locale en-IN) [190ms]
+    ΓÇó Flutter version 3.41.6 on channel stable at C:\Users\ASUS\Downloads\flutter_windows_3.41.6-stable\flutter
+    ! The flutter binary is not on your path. Consider adding C:\Users\ASUS\Downloads\flutter_windows_3.41.6-stable\flutter\bin to your path.
+    ! The dart binary is not on your path. Consider adding C:\Users\ASUS\Downloads\flutter_windows_3.41.6-stable\flutter\bin to your path.
+    ΓÇó Upstream repository https://github.com/flutter/flutter.git
+    ΓÇó Framework revision db50e20168 (9 days ago), 2026-03-25 16:21:00 -0700
+    ΓÇó Engine revision 425cfb54d0
+    ΓÇó Dart version 3.11.4
+    ΓÇó DevTools version 2.54.2
+    ΓÇó Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets, omit-legacy-version-file, enable-lldb-debugging, enable-uiscene-migration
+    ΓÇó If those were intentional, you can disregard the above warnings; however it is recommended to use "git" directly to perform update checks and upgrades.
+
+[ΓêÜ] Windows Version (11 Home Single Language 64-bit, 25H2, 2009) [1,462ms]
+
+[X] Android toolchain - develop for Android devices [25ms]
+    X Unable to locate Android SDK.
+      Install Android Studio from: https://developer.android.com/studio/index.html
+      On first launch it will assist you in installing the Android SDK components.
+      (or visit https://flutter.dev/to/windows-android-setup for detailed instructions).
+      If the Android SDK has been installed to a custom location, please use
+      `flutter config --android-sdk` to update to that location.
+
+
+[ΓêÜ] Chrome - develop for the web [8ms]
+    ΓÇó Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[X] Visual Studio - develop Windows apps [7ms]
+    X Visual Studio not installed; this is necessary to develop Windows apps.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+
+[ΓêÜ] Connected device (3 available) [90ms]
+    ΓÇó Windows (desktop) ΓÇó windows ΓÇó windows-x64    ΓÇó Microsoft Windows [Version 10.0.26200.8117]
+    ΓÇó Chrome (web)      ΓÇó chrome  ΓÇó web-javascript ΓÇó Google Chrome 146.0.7680.178
+    ΓÇó Edge (web)        ΓÇó edge    ΓÇó web-javascript ΓÇó Microsoft Edge 146.0.3856.97
+
+[ΓêÜ] Network resources [1,353ms]
+    ΓÇó All expected network resources are available.
+
+! Doctor found issues in 3 categories.

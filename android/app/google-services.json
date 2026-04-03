@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "765660360365",
+    "firebase_url": "https://drowsydriver-eff03-default-rtdb.firebaseio.com",
+    "project_id": "drowsydriver-eff03",
+    "storage_bucket": "drowsydriver-eff03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765660360365:android:5951e66640fb8907ae6024",
+        "android_client_info": {
+          "package_name": "com.drowsydriver.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj9HlajT0By1JifA7vwZz8gPBUkgeXOYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
